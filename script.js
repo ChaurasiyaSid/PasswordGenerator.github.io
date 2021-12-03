@@ -5,7 +5,6 @@ const number = "0123456789";
 const symbol = "!@#$%^&*=-_";
 
 const pLength = document.getElementById("p-length");
-console.log(pLength);
 const upperCase = document.getElementById("p-uppercase");
 const lowerCase = document.getElementById("p-lowercase");
 const pNumber = document.getElementById("p-number");
